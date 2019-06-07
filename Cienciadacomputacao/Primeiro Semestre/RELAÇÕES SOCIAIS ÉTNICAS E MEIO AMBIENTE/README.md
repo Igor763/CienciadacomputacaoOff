@@ -1,11 +1,17 @@
-![Unifeg Logo](/Logo.png)
-
-# [Ciencia Da Computacao](https://www.unifeg.edu.br/webacademico/site/descricaocurso.jsp?Ciencia-da-Computacao&codigocurso=101)
-
-Duração do Curso: _8 semestres_.
-
-Período: _Noturno_.
-
-Carga Horária: _3220 h/a_ 
-
-Renovação de Reconhecimento: **Portaria MEC nº 286, de 21 de dezembro de 2012** O curso de Bacharelado em Ciência da Computação do Centro Universitário da Fundação Educacional Guaxupé foi criado com o objetivo de atender à grande demanda por profissionais da área de informática, nesta região, marcada, nas últimas décadas pelo crescimento populacional e pelo grande desenvolvimento econômico, sobretudo da agroindústria. 
+Carga Horária: _20_
+ 
+_Ementa_:
+    
+   Estudar as relações entre História, Ambiente e relações étnicas, a partir dos diálogos teóricos gerais da História Ambiental, discutindo as questões étnicas. Análise dos principais problemas socioambientais e contemporâneos e o impacto desses problemas na vida diária das pessoas e no contexto onde estão inseridas. Responsabilidade social. Conceito de sustentabilidade. Sustentabilidade como política de orientação do planejamento estratégico das organizações.
+ 
+_Objetivos Gerais_:
+   
+   Despertar o interesse do discente para as questões sócio-econômico-ambientais a fim de possibilitar a análise crítica dos dilemas contemporâneos, em prol da efetividade do exercício da cidadania.
+ 
+_Objetivos Específicos_:
+    
+   Estuda a importância das questões ambientais e as relações étnicos raciais e sua aplicabilidade no cotidiano.
+ 
+_Metodologia_:
+    
+   Aula expositiva, debates e metodologia ativas
