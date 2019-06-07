@@ -1,11 +1,17 @@
-![Unifeg Logo](/Logo.png)
-
-# [Ciencia Da Computacao](https://www.unifeg.edu.br/webacademico/site/descricaocurso.jsp?Ciencia-da-Computacao&codigocurso=101)
-
-Duração do Curso: _8 semestres_.
-
-Período: _Noturno_.
-
-Carga Horária: _3220 h/a_ 
-
-Renovação de Reconhecimento: **Portaria MEC nº 286, de 21 de dezembro de 2012** O curso de Bacharelado em Ciência da Computação do Centro Universitário da Fundação Educacional Guaxupé foi criado com o objetivo de atender à grande demanda por profissionais da área de informática, nesta região, marcada, nas últimas décadas pelo crescimento populacional e pelo grande desenvolvimento econômico, sobretudo da agroindústria. 
+Carga Horária: _60_
+ 
+_Ementa_:
+    
+   Noções de lógica de programação e algoritmos. Tipos, variáveis expressões e algoritmos sequenciais. Estruturas de controle. Vetores e matrizes. Funções.
+ 
+_Objetivos Gerais_:
+    
+   Desenvolver o raciocínio lógico aplicado à solução de problemas em nível computacional e introduzir os conceitos básicos de algoritmos para a implementação computacional
+ 
+_Objetivos Específicos_:
+    
+   Fornecer o conhecimento da lógica computacional e algoritmos, abordando seus principais recursos e aplicações. Fornecer habilidades para estruturar a escrita de um programa na linguagem Python e suas bibliotecas, Numpy, Scipy e Matplotlib
+ 
+_Metodologia_:
+   
+   Aulas teóricas em sala de aula com a apresentação dos conceitos e práticas em laboratório para exercitar os mesmos.
