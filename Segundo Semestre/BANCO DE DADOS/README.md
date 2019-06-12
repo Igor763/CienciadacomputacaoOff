@@ -1,17 +1,17 @@
-Carga Horária: 80
+Carga Horária: _80_
  
-Ementa:
+_Ementa_:
     
    Conceitos Básicos: Arquitetura de um Sistema de Banco de Dados, Modelos de Dados, Linguagens de Definição e Manipulação de Dados, Usuário de Banco de Dados. Modelagem de Dados. Modelos de Dados: Relacional, Hierárquicos e de Redes. Projeto de Banco de Dados Relacional: Dependência Funcional, Chaves, Normalização e SQL
  
-Objetivos Gerais:
+_Objetivos Gerais_:
     
    Capacitar aos alunos os conceitos e normas técnicas necessários para entender, analisar, projetar, desenvolver e manter bases de dados. Proporcionar os meios necessários de utilização dos Sistemas Gerenciadores de Bancos de Dados(SGBD), assim como base teórica e prática para realizar acesso, consultas e melhorias em base de dados.
  
-Objetivos Específicos:
+_Objetivos Específicos_:
     
    O aluno será capaz de compreender os conceitos e arquitetura de Banco de Dados e Sistema de Gerenciamento de Banco de Dados(SGBD). Aplicar os conceitos de modelagem, normalização e banco de dados. Implementar um banco de dados. .Elaborar consultas em uma base de dados através da linguagem SQL
  
-Metodologia:
+_Metodologia_:
     
    Aulas expositivas e práticas em laboratório. Trabalhos em grupo e individuais. Utilização de Ferramenta de Modelagem de Dados e Sistema de Gerenciamento de Banco de Dados para praticar os resultados. Discussão com a sala sobre exercícios.
